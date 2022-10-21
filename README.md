@@ -1,4 +1,4 @@
-- 👋 Hi, I am Amaka
+ 👋 Hi, I am Amaka
 - 👀 I’m a Mobile engineer using Flutter to create wonderful experiences in mobile applications
 - 💞️ I’m looking to collaborate on mobile dev projects
 - 📫 You can reach me @ikechiorakwe@gmail.com
